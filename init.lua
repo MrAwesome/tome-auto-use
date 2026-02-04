@@ -1,13 +1,13 @@
 long_name = "Auto Use Tweaks"
 short_name = "auto_use_tweaks"
 for_module = "tome"
-version = {1,5,5}
-addon_version = {0,0,6}
+version = { 1, 5, 5 }
+addon_version = { 0, 0, 6 }
 weight = 100
 author = { "Xetaxheb", "xetaxheb@gmail.com" }
 homepage = "http://tome.te4.org/"
 description = [[Auto use 2: Bot harder]]
-tags = {'auto-use', 'tweaks', 'auto', 'talent', 'use', 'custom'}
+tags = { 'auto-use', 'tweaks', 'auto', 'talent', 'use', 'custom' }
 overload = true
 superload = true
 hooks = true

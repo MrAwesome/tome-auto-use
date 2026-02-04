@@ -17,9 +17,10 @@
 -- Nicolas Casalini "DarkGod"
 -- darkgod@te4.org
 
-defineAction{
-	default = { "sym:_F1:false:false:true:false" },
-	type = "TOGGLE_AUTOTARGET",
-	group = "actions",
-	name = "Toggle auto-accept target mode",
+defineAction {
+    default = { "sym:_F1:false:false:true:false" },
+    type = "TOGGLE_AUTOTARGET",
+    group = "actions",
+    name = "Toggle auto-accept target mode",
 }
+
